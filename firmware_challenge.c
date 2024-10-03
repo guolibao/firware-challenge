@@ -206,6 +206,7 @@ void estimateFrequencyAndTheta(DDATA* d, int dataSize) {
 void getHarmonicAmplitudes(DDATA* d, int dataSize) {
     // Implementation for getting harmonic amplitudes
         /* . . . */
+    // use fft to get amplitude for each homonics
 }
 
 //! @brief Assume the function Va, Vb, or Vc data points is taken at time 0s
